@@ -1,0 +1,16 @@
+From: Dana Whitfield <dana@ironcladco.example>
+To: support@msindustrial.example
+Date: Mon, 16 Nov 2026 08:41 -0600
+Subject: Order request + bulk price
+
+Hi team,
+
+Please set up an order for:
+- MS-PPE-0002 x 200
+- MS-PPE-0106 x 40
+
+Can you confirm the bulk discount on the gloves before we send the PO? Deliver to our usual yard.
+
+Thanks,
+Dana Whitfield
+Purchasing, Ironclad Construction

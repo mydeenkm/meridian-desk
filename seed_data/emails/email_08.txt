@@ -1,0 +1,9 @@
+From: Karen Ostrow <karen@summitaero.example>
+To: support@msindustrial.example
+Date: Tue, 17 Nov 2026 10:44 -0600
+Subject: Tracking for MS-10333
+
+Please send the tracking number for MS-10333. Our receiving dock needs the carrier and the expected arrival date.
+
+Karen Ostrow
+Summit Aerospace Parts

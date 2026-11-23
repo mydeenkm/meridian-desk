@@ -1,0 +1,8 @@
+From: Tom Brandt <tom@keystonefoundry.example>
+To: support@msindustrial.example
+Date: Tue, 17 Nov 2026 12:40 -0600
+Subject: Cancel MS-10431
+
+Please cancel MS-10431 which we placed this morning. There was an error in the quantities and we will send a new order. Will we be charged anything?
+
+Tom Brandt

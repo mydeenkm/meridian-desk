@@ -1,0 +1,9 @@
+From: Nicole Brandt <nicole@vanguardlog.example>
+To: support@msindustrial.example
+Date: Mon, 16 Nov 2026 16:25 -0600
+Subject: Invoice dispute MS-10268
+
+The relay switches on MS-10268 (25 pcs, MS-ELC-0029) were invoiced at $422.82 each. Your sales rep quoted us $380. Please credit the difference.
+
+Nicole Brandt
+Vanguard Logistics

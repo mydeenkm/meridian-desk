@@ -1,0 +1,8 @@
+From: Jorge Alvarez <jorge@metrorail-maint.example>
+To: support@msindustrial.example
+Date: Mon, 16 Nov 2026 09:55 -0600
+Subject: Defective pipe cutters MS-10351
+
+4 of the 50 pipe cutters (MS-TLS-0108) on MS-10351 chipped on first use, within 2 weeks of delivery. Is this covered by warranty, and do we send them back?
+
+Jorge Alvarez

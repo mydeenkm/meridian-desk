@@ -1,0 +1,22 @@
+# Core LLM & Agent Framework (pick your preferred SDK)
+openai>=1.50.0
+anthropic>=0.39.0
+google-genai>=0.3.0
+pydantic>=2.9.0
+python-dotenv>=1.0.1
+
+# RAG & Policy Search (for policies/ Markdown files & tables)
+chromadb>=0.5.15
+sentence-transformers>=3.2.0
+rank-bm25>=0.2.2
+
+# Multi-User Web Service & Async Parallel Auditing (Challenges 10–12)
+fastapi>=0.115.0
+uvicorn>=0.32.0
+httpx>=0.27.2
+aiosqlite>=0.20.0
+
+# Data Validation & Testing
+pandas>=2.2.3
+pytest>=8.3.3
+pytest-asyncio>=0.24.0

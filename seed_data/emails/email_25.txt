@@ -1,0 +1,8 @@
+From: Marcus Lee <marcus@pacificcold.example>
+To: support@msindustrial.example
+Date: Mon, 16 Nov 2026 17:02 -0600
+Subject: Stock check MS-TLS-0092
+
+Do you have 25 of MS-TLS-0092 (torque wrench) in stock? If not, when could we get them?
+
+Marcus Lee

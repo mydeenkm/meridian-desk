@@ -1,0 +1,201 @@
+sku,name,category,unit_price,stock,specs
+MS-VLV-0001,"Ball Valve, Schedule 80 PVC (1/4-inch)",Valves & Fittings,358.14,250,Material: Schedule 80 PVC; Size/Spec: 1/4-inch; Rating: 150 PSI; Category: Valves & Fittings
+MS-PPE-0002,"Nitrile Gloves, Reinforced Nitrile (Large)",Safety & PPE,56.83,758,Material: Reinforced Nitrile; Size/Spec: Large; Rating: CE Certified; Category: Safety & PPE
+MS-FST-0003,"Hex Bolt, Alloy Steel (M6)",Fasteners,207.44,30,Material: Alloy Steel; Size/Spec: M6; Rating: A4-70 Marine Grade; Category: Fasteners
+MS-TLS-0004,"Impact Wrench, Chrome Vanadium (Standard)",Power & Hand Tools,246.78,27,Material: Chrome Vanadium; Size/Spec: Standard; Rating: CE Certified; Category: Power & Hand Tools
+MS-ELC-0005,"Circuit Breaker, Thermoplastic (480V)",Electrical,220.3,284,Material: Thermoplastic; Size/Spec: 480V; Rating: IP67 Waterproof; Category: Electrical
+MS-HYD-0006,"Hydraulic Hose, Braided Synthetic Rubber (3/8-inch)",Hydraulics,168.93,159,Material: Braided Synthetic Rubber; Size/Spec: 3/8-inch; Rating: ISO 4413 Compliant; Category: Hydraulics
+MS-ABR-0007,"Cut-Off Wheel, Aluminum Oxide (120-Grit)",Abrasives,52.23,99,Material: Aluminum Oxide; Size/Spec: 120-Grit; Rating: ANSI B7.1 Compliant; Category: Abrasives
+MS-FAC-0008,"Industrial Degreaser, Solvent-Based Formula (Bulk Pack)",Facility & Janitorial,389.06,747,Material: Solvent-Based Formula; Size/Spec: Bulk Pack; Rating: Industrial Grade; Category: Facility & Janitorial
+MS-VLV-0009,"Gate Valve, Brass (2-inch)",Valves & Fittings,467.32,387,Material: Brass; Size/Spec: 2-inch; Rating: 150 PSI; Category: Valves & Fittings
+MS-PPE-0010,"Safety Goggles, Polycarbonate (X-Large)",Safety & PPE,300.13,370,Material: Polycarbonate; Size/Spec: X-Large; Rating: CE Certified; Category: Safety & PPE
+MS-FST-0011,"Lock Nut, Zinc-Plated Steel (1/2-inch)",Fasteners,30.11,233,Material: Zinc-Plated Steel; Size/Spec: 1/2-inch; Rating: Grade 5; Category: Fasteners
+MS-TLS-0012,"Cordless Drill, Glass-Filled Nylon (Compact)",Power & Hand Tools,417.05,389,Material: Glass-Filled Nylon; Size/Spec: Compact; Rating: CE Certified; Category: Power & Hand Tools
+MS-ELC-0013,"Conduit Pipe, Schedule 80 PVC (480V)",Electrical,85.19,363,Material: Schedule 80 PVC; Size/Spec: 480V; Rating: CE Certified; Category: Electrical
+MS-HYD-0014,"Quick Disconnect Coupler, Carbon Steel (1/2-inch)",Hydraulics,295.71,175,Material: Carbon Steel; Size/Spec: 1/2-inch; Rating: 3000 PSI; Category: Hydraulics
+MS-ABR-0015,"Flap Disc, Zirconia Alumina (80-Grit)",Abrasives,187.41,655,"Material: Zirconia Alumina; Size/Spec: 80-Grit; Rating: Max 12,000 RPM; Category: Abrasives"
+MS-FAC-0016,"Spill Containment Kit, Polypropylene (Bulk Pack)",Facility & Janitorial,116.5,32,Material: Polypropylene; Size/Spec: Bulk Pack; Rating: OSHA Compliant; Category: Facility & Janitorial
+MS-VLV-0017,"Check Valve, Brass (1-inch)",Valves & Fittings,39.71,580,Material: Brass; Size/Spec: 1-inch; Rating: 1000 PSI; Category: Valves & Fittings
+MS-PPE-0018,"Hard Hat, High-Density Polyethylene (Large)",Safety & PPE,243.89,658,Material: High-Density Polyethylene; Size/Spec: Large; Rating: CE Certified; Category: Safety & PPE
+MS-FST-0019,"Flat Washer, 316 Stainless Steel (M8)",Fasteners,74.34,762,Material: 316 Stainless Steel; Size/Spec: M8; Rating: Grade 8; Category: Fasteners
+MS-TLS-0020,"Angle Grinder, Die-Cast Aluminum (Professional Kit)",Power & Hand Tools,179.18,141,Material: Die-Cast Aluminum; Size/Spec: Professional Kit; Rating: IP54 Dust Protected; Category: Power & Hand Tools
+MS-ELC-0021,"Terminal Block, Nylon 66 (24V DC)",Electrical,414.51,156,Material: Nylon 66; Size/Spec: 24V DC; Rating: UL Listed; Category: Electrical
+MS-HYD-0022,"Gear Pump, Cast Iron (3/4-inch)",Hydraulics,189.92,610,Material: Cast Iron; Size/Spec: 3/4-inch; Rating: 3000 PSI; Category: Hydraulics
+MS-ABR-0023,"Sanding Belt, Silicon Carbide (6-inch)",Abrasives,466.36,11,"Material: Silicon Carbide; Size/Spec: 6-inch; Rating: Max 12,000 RPM; Category: Abrasives"
+MS-FAC-0024,"Pallet Jack Wheel, Polyurethane (Bulk Pack)",Facility & Janitorial,61.1,445,Material: Polyurethane; Size/Spec: Bulk Pack; Rating: Industrial Grade; Category: Facility & Janitorial
+MS-VLV-0025,"Butterfly Valve, Carbon Steel (1-inch)",Valves & Fittings,458.22,736,Material: Carbon Steel; Size/Spec: 1-inch; Rating: 150 PSI; Category: Valves & Fittings
+MS-PPE-0026,"Steel-Toe Boots, Full-Grain Leather (Large)",Safety & PPE,438.8,640,Material: Full-Grain Leather; Size/Spec: Large; Rating: CE Certified; Category: Safety & PPE
+MS-FST-0027,"Socket Cap Screw, 316 Stainless Steel (1/2-inch)",Fasteners,295.63,156,Material: 316 Stainless Steel; Size/Spec: 1/2-inch; Rating: A4-70 Marine Grade; Category: Fasteners
+MS-TLS-0028,"Torque Wrench, Chrome Vanadium (Standard)",Power & Hand Tools,290.9,500,Material: Chrome Vanadium; Size/Spec: Standard; Rating: UL Listed; Category: Power & Hand Tools
+MS-ELC-0029,"Relay Switch, Thermoset Resin (24V DC)",Electrical,422.82,826,Material: Thermoset Resin; Size/Spec: 24V DC; Rating: CE Certified; Category: Electrical
+MS-HYD-0030,"Hydraulic Cylinder, Chrome-Plated Steel (3/8-inch)",Hydraulics,122.07,580,Material: Chrome-Plated Steel; Size/Spec: 3/8-inch; Rating: 3000 PSI; Category: Hydraulics
+MS-ABR-0031,"Grinding Wheel, Aluminum Oxide (60-Grit)",Abrasives,237.64,70,Material: Aluminum Oxide; Size/Spec: 60-Grit; Rating: Industrial Grade; Category: Abrasives
+MS-FAC-0032,"Floor Marking Tape, Vinyl (Heavy-Duty)",Facility & Janitorial,454.94,169,Material: Vinyl; Size/Spec: Heavy-Duty; Rating: Biodegradable; Category: Facility & Janitorial
+MS-VLV-0033,"Needle Valve, Brass (2-inch)",Valves & Fittings,463.2,552,Material: Brass; Size/Spec: 2-inch; Rating: 3000 PSI; Category: Valves & Fittings
+MS-PPE-0034,"Respirator Mask, Silicone (X-Large)",Safety & PPE,477.71,665,Material: Silicone; Size/Spec: X-Large; Rating: ANSI Certified; Category: Safety & PPE
+MS-FST-0035,"Concrete Anchor, 316 Stainless Steel (M12)",Fasteners,221.38,253,Material: 316 Stainless Steel; Size/Spec: M12; Rating: A4-70 Marine Grade; Category: Fasteners
+MS-TLS-0036,"Digital Caliper, Hardened Stainless Steel (Compact)",Power & Hand Tools,18.42,567,Material: Hardened Stainless Steel; Size/Spec: Compact; Rating: Industrial Grade; Category: Power & Hand Tools
+MS-ELC-0037,"Control Transformer, Copper-Wound (120V)",Electrical,41.97,646,Material: Copper-Wound; Size/Spec: 120V; Rating: UL Listed; Category: Electrical
+MS-HYD-0038,"Pressure Gauge, 316 Stainless Steel (3/8-inch)",Hydraulics,435.41,338,Material: 316 Stainless Steel; Size/Spec: 3/8-inch; Rating: 3000 PSI; Category: Hydraulics
+MS-ABR-0039,"Wire Cup Brush, Carbon Steel Wire (6-inch)",Abrasives,139.8,497,Material: Carbon Steel Wire; Size/Spec: 6-inch; Rating: ANSI B7.1 Compliant; Category: Abrasives
+MS-FAC-0040,"Absorbent Pads, Polypropylene (Heavy-Duty)",Facility & Janitorial,123.07,484,Material: Polypropylene; Size/Spec: Heavy-Duty; Rating: Biodegradable; Category: Facility & Janitorial
+MS-VLV-0041,"Pressure Relief Valve, 316 Stainless Steel (1/2-inch)",Valves & Fittings,54.2,441,Material: 316 Stainless Steel; Size/Spec: 1/2-inch; Rating: 150 PSI; Category: Valves & Fittings
+MS-PPE-0042,"Ear Muffs, ABS Plastic (Universal)",Safety & PPE,228.7,746,Material: ABS Plastic; Size/Spec: Universal; Rating: ANSI Certified; Category: Safety & PPE
+MS-FST-0043,"Threaded Rod, Carbon Steel (1/2-inch)",Fasteners,472.53,100,Material: Carbon Steel; Size/Spec: 1/2-inch; Rating: A4-70 Marine Grade; Category: Fasteners
+MS-TLS-0044,"Pipe Cutter, Hardened Steel (Professional Kit)",Power & Hand Tools,385.98,111,Material: Hardened Steel; Size/Spec: Professional Kit; Rating: Industrial Grade; Category: Power & Hand Tools
+MS-ELC-0045,"Junction Box, Galvanized Steel (120V)",Electrical,261.36,143,Material: Galvanized Steel; Size/Spec: 120V; Rating: IP67 Waterproof; Category: Electrical
+MS-HYD-0046,"Oil Filter Element, Glass Fiber (3/8-inch)",Hydraulics,226.63,77,Material: Glass Fiber; Size/Spec: 3/8-inch; Rating: 6000 PSI; Category: Hydraulics
+MS-ABR-0047,"Polishing Pad, Foam (6-inch)",Abrasives,32.35,553,Material: Foam; Size/Spec: 6-inch; Rating: ANSI B7.1 Compliant; Category: Abrasives
+MS-FAC-0048,"Safety Cabinet, Powder-Coated Steel (Standard)",Facility & Janitorial,86.92,497,Material: Powder-Coated Steel; Size/Spec: Standard; Rating: NFPA Compliant; Category: Facility & Janitorial
+MS-VLV-0049,"Elbow Fitting, Carbon Steel (1/2-inch)",Valves & Fittings,434.0,168,Material: Carbon Steel; Size/Spec: 1/2-inch; Rating: 3000 PSI; Category: Valves & Fittings
+MS-PPE-0050,"High-Vis Vest, Polyester Mesh (Medium)",Safety & PPE,133.54,802,Material: Polyester Mesh; Size/Spec: Medium; Rating: ANSI Certified; Category: Safety & PPE
+MS-FST-0051,"Spring Pin, 316 Stainless Steel (M10)",Fasteners,336.94,748,Material: 316 Stainless Steel; Size/Spec: M10; Rating: Grade 8; Category: Fasteners
+MS-TLS-0052,"Crimping Tool, Forged Steel (Standard)",Power & Hand Tools,148.4,59,Material: Forged Steel; Size/Spec: Standard; Rating: CE Certified; Category: Power & Hand Tools
+MS-ELC-0053,"Proximity Sensor, 316 Stainless Steel (240V)",Electrical,32.14,488,Material: 316 Stainless Steel; Size/Spec: 240V; Rating: UL Listed; Category: Electrical
+MS-HYD-0054,"Manifold Block, Anodized Aluminum (1/4-inch)",Hydraulics,409.91,70,Material: Anodized Aluminum; Size/Spec: 1/4-inch; Rating: 3000 PSI; Category: Hydraulics
+MS-ABR-0055,"Deburring Burr, Tungsten Carbide (80-Grit)",Abrasives,65.03,583,"Material: Tungsten Carbide; Size/Spec: 80-Grit; Rating: Max 12,000 RPM; Category: Abrasives"
+MS-FAC-0056,"Drum Pump, Polypropylene (Standard)",Facility & Janitorial,206.16,597,Material: Polypropylene; Size/Spec: Standard; Rating: OSHA Compliant; Category: Facility & Janitorial
+MS-VLV-0057,"Tee Coupling, Schedule 80 PVC (3/4-inch)",Valves & Fittings,324.28,321,Material: Schedule 80 PVC; Size/Spec: 3/4-inch; Rating: 300 PSI; Category: Valves & Fittings
+MS-PPE-0058,"Chemical Apron, PVC-Coated Fabric (X-Large)",Safety & PPE,70.21,660,Material: PVC-Coated Fabric; Size/Spec: X-Large; Rating: ANSI Certified; Category: Safety & PPE
+MS-FST-0059,"Blind Rivet, Steel (M12)",Fasteners,446.53,74,Material: Steel; Size/Spec: M12; Rating: Grade 8; Category: Fasteners
+MS-TLS-0060,"Heat Gun, Glass-Filled Nylon (Professional Kit)",Power & Hand Tools,43.04,218,Material: Glass-Filled Nylon; Size/Spec: Professional Kit; Rating: UL Listed; Category: Power & Hand Tools
+MS-ELC-0061,"Cable Gland, Nylon (120V)",Electrical,423.83,250,Material: Nylon; Size/Spec: 120V; Rating: CE Certified; Category: Electrical
+MS-HYD-0062,"Seal Kit, Polyurethane (1/2-inch)",Hydraulics,215.1,556,Material: Polyurethane; Size/Spec: 1/2-inch; Rating: 5000 PSI; Category: Hydraulics
+MS-ABR-0063,"Emery Cloth, Emery (6-inch)",Abrasives,257.9,683,Material: Emery; Size/Spec: 6-inch; Rating: Industrial Grade; Category: Abrasives
+MS-FAC-0064,"LED High-Bay Light, Die-Cast Aluminum (Standard)",Facility & Janitorial,133.2,109,Material: Die-Cast Aluminum; Size/Spec: Standard; Rating: NFPA Compliant; Category: Facility & Janitorial
+MS-VLV-0065,"Ball Valve, Schedule 80 PVC (2-inch)",Valves & Fittings,136.91,619,Material: Schedule 80 PVC; Size/Spec: 2-inch; Rating: 300 PSI; Category: Valves & Fittings
+MS-PPE-0066,"Nitrile Gloves, Reinforced Nitrile (X-Large)",Safety & PPE,332.65,270,Material: Reinforced Nitrile; Size/Spec: X-Large; Rating: OSHA Compliant; Category: Safety & PPE
+MS-FST-0067,"Hex Bolt, Alloy Steel (M12)",Fasteners,435.37,52,Material: Alloy Steel; Size/Spec: M12; Rating: Grade 8; Category: Fasteners
+MS-TLS-0068,"Impact Wrench, Chrome Vanadium (Professional Kit)",Power & Hand Tools,29.29,341,Material: Chrome Vanadium; Size/Spec: Professional Kit; Rating: Industrial Grade; Category: Power & Hand Tools
+MS-ELC-0069,"Circuit Breaker, Thermoplastic (240V)",Electrical,357.99,564,Material: Thermoplastic; Size/Spec: 240V; Rating: IP67 Waterproof; Category: Electrical
+MS-HYD-0070,"Hydraulic Hose, Braided Synthetic Rubber (1-inch)",Hydraulics,61.25,707,Material: Braided Synthetic Rubber; Size/Spec: 1-inch; Rating: 3000 PSI; Category: Hydraulics
+MS-ABR-0071,"Cut-Off Wheel, Aluminum Oxide (6-inch)",Abrasives,402.01,596,Material: Aluminum Oxide; Size/Spec: 6-inch; Rating: ANSI B7.1 Compliant; Category: Abrasives
+MS-FAC-0072,"Industrial Degreaser, Water-Based Formula (Industrial Size)",Facility & Janitorial,28.22,373,Material: Water-Based Formula; Size/Spec: Industrial Size; Rating: NFPA Compliant; Category: Facility & Janitorial
+MS-VLV-0073,"Gate Valve, Carbon Steel (3/4-inch)",Valves & Fittings,330.09,682,Material: Carbon Steel; Size/Spec: 3/4-inch; Rating: 300 PSI; Category: Valves & Fittings
+MS-PPE-0074,"Safety Goggles, Polycarbonate (X-Large)",Safety & PPE,425.37,416,Material: Polycarbonate; Size/Spec: X-Large; Rating: CE Certified; Category: Safety & PPE
+MS-FST-0075,"Lock Nut, Zinc-Plated Steel (M8)",Fasteners,468.78,830,Material: Zinc-Plated Steel; Size/Spec: M8; Rating: Grade 5; Category: Fasteners
+MS-TLS-0076,"Cordless Drill, Glass-Filled Nylon (Professional Kit)",Power & Hand Tools,93.07,340,Material: Glass-Filled Nylon; Size/Spec: Professional Kit; Rating: UL Listed; Category: Power & Hand Tools
+MS-ELC-0077,"Conduit Pipe, Schedule 80 PVC (120V)",Electrical,83.56,718,Material: Schedule 80 PVC; Size/Spec: 120V; Rating: CE Certified; Category: Electrical
+MS-HYD-0078,"Quick Disconnect Coupler, Carbon Steel (3/4-inch)",Hydraulics,413.33,227,Material: Carbon Steel; Size/Spec: 3/4-inch; Rating: 3000 PSI; Category: Hydraulics
+MS-ABR-0079,"Flap Disc, Zirconia Alumina (4-1/2-inch)",Abrasives,152.4,814,"Material: Zirconia Alumina; Size/Spec: 4-1/2-inch; Rating: Max 12,000 RPM; Category: Abrasives"
+MS-FAC-0080,"Spill Containment Kit, Polypropylene (Heavy-Duty)",Facility & Janitorial,319.71,408,Material: Polypropylene; Size/Spec: Heavy-Duty; Rating: OSHA Compliant; Category: Facility & Janitorial
+MS-VLV-0081,"Check Valve, Brass (3/4-inch)",Valves & Fittings,464.39,285,Material: Brass; Size/Spec: 3/4-inch; Rating: 150 PSI; Category: Valves & Fittings
+MS-PPE-0082,"Hard Hat, High-Density Polyethylene (Universal)",Safety & PPE,471.11,549,Material: High-Density Polyethylene; Size/Spec: Universal; Rating: CE Certified; Category: Safety & PPE
+MS-FST-0083,"Flat Washer, 316 Stainless Steel (M6)",Fasteners,422.02,267,Material: 316 Stainless Steel; Size/Spec: M6; Rating: Grade 5; Category: Fasteners
+MS-TLS-0084,"Angle Grinder, Die-Cast Aluminum (Heavy-Duty)",Power & Hand Tools,59.61,444,Material: Die-Cast Aluminum; Size/Spec: Heavy-Duty; Rating: UL Listed; Category: Power & Hand Tools
+MS-ELC-0085,"Terminal Block, Nylon 66 (240V)",Electrical,294.33,523,Material: Nylon 66; Size/Spec: 240V; Rating: NEMA 4X; Category: Electrical
+MS-HYD-0086,"Gear Pump, Cast Iron (3/4-inch)",Hydraulics,128.6,725,Material: Cast Iron; Size/Spec: 3/4-inch; Rating: 5000 PSI; Category: Hydraulics
+MS-ABR-0087,"Sanding Belt, Silicon Carbide (60-Grit)",Abrasives,444.91,551,Material: Silicon Carbide; Size/Spec: 60-Grit; Rating: Industrial Grade; Category: Abrasives
+MS-FAC-0088,"Pallet Jack Wheel, Polyurethane (Bulk Pack)",Facility & Janitorial,41.49,680,Material: Polyurethane; Size/Spec: Bulk Pack; Rating: Biodegradable; Category: Facility & Janitorial
+MS-VLV-0089,"Butterfly Valve, 316 Stainless Steel (2-inch)",Valves & Fittings,321.29,127,Material: 316 Stainless Steel; Size/Spec: 2-inch; Rating: 1000 PSI; Category: Valves & Fittings
+MS-PPE-0090,"Steel-Toe Boots, Full-Grain Leather (X-Large)",Safety & PPE,201.06,412,Material: Full-Grain Leather; Size/Spec: X-Large; Rating: CE Certified; Category: Safety & PPE
+MS-FST-0091,"Socket Cap Screw, 316 Stainless Steel (1/4-inch)",Fasteners,98.95,680,Material: 316 Stainless Steel; Size/Spec: 1/4-inch; Rating: Grade 5; Category: Fasteners
+MS-TLS-0092,"Torque Wrench, Chrome Vanadium (Standard)",Power & Hand Tools,199.96,0,Material: Chrome Vanadium; Size/Spec: Standard; Rating: Industrial Grade; Category: Power & Hand Tools
+MS-ELC-0093,"Relay Switch, Thermoset Resin (240V)",Electrical,211.19,593,Material: Thermoset Resin; Size/Spec: 240V; Rating: IP67 Waterproof; Category: Electrical
+MS-HYD-0094,"Hydraulic Cylinder, Chrome-Plated Steel (3/4-inch)",Hydraulics,216.98,218,Material: Chrome-Plated Steel; Size/Spec: 3/4-inch; Rating: ISO 4413 Compliant; Category: Hydraulics
+MS-ABR-0095,"Grinding Wheel, Silicon Carbide (80-Grit)",Abrasives,48.48,527,Material: Silicon Carbide; Size/Spec: 80-Grit; Rating: Industrial Grade; Category: Abrasives
+MS-FAC-0096,"Floor Marking Tape, Vinyl (Standard)",Facility & Janitorial,325.72,230,Material: Vinyl; Size/Spec: Standard; Rating: NFPA Compliant; Category: Facility & Janitorial
+MS-VLV-0097,"Needle Valve, 316 Stainless Steel (1/2-inch)",Valves & Fittings,30.29,486,Material: 316 Stainless Steel; Size/Spec: 1/2-inch; Rating: 150 PSI; Category: Valves & Fittings
+MS-PPE-0098,"Respirator Mask, Silicone (Universal)",Safety & PPE,426.31,589,Material: Silicone; Size/Spec: Universal; Rating: ANSI Certified; Category: Safety & PPE
+MS-FST-0099,"Concrete Anchor, Zinc-Plated Steel (1/2-inch)",Fasteners,189.55,409,Material: Zinc-Plated Steel; Size/Spec: 1/2-inch; Rating: A4-70 Marine Grade; Category: Fasteners
+MS-TLS-0100,"Digital Caliper, Hardened Stainless Steel (Standard)",Power & Hand Tools,429.39,788,Material: Hardened Stainless Steel; Size/Spec: Standard; Rating: UL Listed; Category: Power & Hand Tools
+MS-ELC-0101,"Control Transformer, Copper-Wound (480V)",Electrical,91.43,712,Material: Copper-Wound; Size/Spec: 480V; Rating: IP67 Waterproof; Category: Electrical
+MS-HYD-0102,"Pressure Gauge, 316 Stainless Steel (1/4-inch)",Hydraulics,441.09,124,Material: 316 Stainless Steel; Size/Spec: 1/4-inch; Rating: 5000 PSI; Category: Hydraulics
+MS-ABR-0103,"Wire Cup Brush, Stainless Steel Wire (80-Grit)",Abrasives,323.26,572,"Material: Stainless Steel Wire; Size/Spec: 80-Grit; Rating: Max 12,000 RPM; Category: Abrasives"
+MS-FAC-0104,"Absorbent Pads, Polypropylene (Industrial Size)",Facility & Janitorial,400.11,561,Material: Polypropylene; Size/Spec: Industrial Size; Rating: Biodegradable; Category: Facility & Janitorial
+MS-VLV-0105,"Pressure Relief Valve, 316 Stainless Steel (1/2-inch)",Valves & Fittings,220.71,769,Material: 316 Stainless Steel; Size/Spec: 1/2-inch; Rating: 3000 PSI; Category: Valves & Fittings
+MS-PPE-0106,"Ear Muffs, ABS Plastic (X-Large)",Safety & PPE,236.99,244,Material: ABS Plastic; Size/Spec: X-Large; Rating: CE Certified; Category: Safety & PPE
+MS-FST-0107,"Threaded Rod, 316 Stainless Steel (M12)",Fasteners,344.94,240,Material: 316 Stainless Steel; Size/Spec: M12; Rating: Grade 5; Category: Fasteners
+MS-TLS-0108,"Pipe Cutter, Hardened Steel (Heavy-Duty)",Power & Hand Tools,429.56,82,Material: Hardened Steel; Size/Spec: Heavy-Duty; Rating: Industrial Grade; Category: Power & Hand Tools
+MS-ELC-0109,"Junction Box, Galvanized Steel (120V)",Electrical,189.1,156,Material: Galvanized Steel; Size/Spec: 120V; Rating: IP67 Waterproof; Category: Electrical
+MS-HYD-0110,"Oil Filter Element, Cellulose Fiber (1/4-inch)",Hydraulics,200.68,555,Material: Cellulose Fiber; Size/Spec: 1/4-inch; Rating: ISO 4413 Compliant; Category: Hydraulics
+MS-ABR-0111,"Polishing Pad, Foam (4-1/2-inch)",Abrasives,106.02,430,Material: Foam; Size/Spec: 4-1/2-inch; Rating: ANSI B7.1 Compliant; Category: Abrasives
+MS-FAC-0112,"Safety Cabinet, Powder-Coated Steel (Standard)",Facility & Janitorial,233.4,360,Material: Powder-Coated Steel; Size/Spec: Standard; Rating: Biodegradable; Category: Facility & Janitorial
+MS-VLV-0113,"Elbow Fitting, Schedule 80 PVC (1-inch)",Valves & Fittings,262.27,752,Material: Schedule 80 PVC; Size/Spec: 1-inch; Rating: 3000 PSI; Category: Valves & Fittings
+MS-PPE-0114,"High-Vis Vest, Polyester Mesh (Universal)",Safety & PPE,137.19,497,Material: Polyester Mesh; Size/Spec: Universal; Rating: OSHA Compliant; Category: Safety & PPE
+MS-FST-0115,"Spring Pin, Carbon Steel (M12)",Fasteners,323.87,817,Material: Carbon Steel; Size/Spec: M12; Rating: Grade 8; Category: Fasteners
+MS-TLS-0116,"Crimping Tool, Forged Steel (Standard)",Power & Hand Tools,442.06,637,Material: Forged Steel; Size/Spec: Standard; Rating: IP54 Dust Protected; Category: Power & Hand Tools
+MS-ELC-0117,"Proximity Sensor, 316 Stainless Steel (480V)",Electrical,48.08,438,Material: 316 Stainless Steel; Size/Spec: 480V; Rating: UL Listed; Category: Electrical
+MS-HYD-0118,"Manifold Block, Anodized Aluminum (3/4-inch)",Hydraulics,32.21,388,Material: Anodized Aluminum; Size/Spec: 3/4-inch; Rating: 5000 PSI; Category: Hydraulics
+MS-ABR-0119,"Deburring Burr, Tungsten Carbide (80-Grit)",Abrasives,162.61,779,"Material: Tungsten Carbide; Size/Spec: 80-Grit; Rating: Max 12,000 RPM; Category: Abrasives"
+MS-FAC-0120,"Drum Pump, 316 Stainless Steel (Bulk Pack)",Facility & Janitorial,127.45,83,Material: 316 Stainless Steel; Size/Spec: Bulk Pack; Rating: Biodegradable; Category: Facility & Janitorial
+MS-VLV-0121,"Tee Coupling, Carbon Steel (1/4-inch)",Valves & Fittings,479.96,358,Material: Carbon Steel; Size/Spec: 1/4-inch; Rating: 150 PSI; Category: Valves & Fittings
+MS-PPE-0122,"Chemical Apron, PVC-Coated Fabric (Medium)",Safety & PPE,27.48,31,Material: PVC-Coated Fabric; Size/Spec: Medium; Rating: CE Certified; Category: Safety & PPE
+MS-FST-0123,"Blind Rivet, Aluminum (M8)",Fasteners,301.46,244,Material: Aluminum; Size/Spec: M8; Rating: Grade 5; Category: Fasteners
+MS-TLS-0124,"Heat Gun, Glass-Filled Nylon (Professional Kit)",Power & Hand Tools,274.41,223,Material: Glass-Filled Nylon; Size/Spec: Professional Kit; Rating: UL Listed; Category: Power & Hand Tools
+MS-ELC-0125,"Cable Gland, Nylon (240V)",Electrical,87.61,621,Material: Nylon; Size/Spec: 240V; Rating: CE Certified; Category: Electrical
+MS-HYD-0126,"Seal Kit, Nitrile Rubber (1/4-inch)",Hydraulics,463.37,110,Material: Nitrile Rubber; Size/Spec: 1/4-inch; Rating: 5000 PSI; Category: Hydraulics
+MS-ABR-0127,"Emery Cloth, Emery (120-Grit)",Abrasives,327.87,384,Material: Emery; Size/Spec: 120-Grit; Rating: Industrial Grade; Category: Abrasives
+MS-FAC-0128,"LED High-Bay Light, Die-Cast Aluminum (Heavy-Duty)",Facility & Janitorial,287.67,850,Material: Die-Cast Aluminum; Size/Spec: Heavy-Duty; Rating: OSHA Compliant; Category: Facility & Janitorial
+MS-VLV-0129,"Ball Valve, Schedule 80 PVC (1/2-inch)",Valves & Fittings,337.23,308,Material: Schedule 80 PVC; Size/Spec: 1/2-inch; Rating: 150 PSI; Category: Valves & Fittings
+MS-PPE-0130,"Nitrile Gloves, Reinforced Nitrile (Medium)",Safety & PPE,259.69,677,Material: Reinforced Nitrile; Size/Spec: Medium; Rating: ANSI Certified; Category: Safety & PPE
+MS-FST-0131,"Hex Bolt, 316 Stainless Steel (M6)",Fasteners,313.82,12,Material: 316 Stainless Steel; Size/Spec: M6; Rating: A4-70 Marine Grade; Category: Fasteners
+MS-TLS-0132,"Impact Wrench, Chrome Vanadium (Professional Kit)",Power & Hand Tools,212.91,370,Material: Chrome Vanadium; Size/Spec: Professional Kit; Rating: UL Listed; Category: Power & Hand Tools
+MS-ELC-0133,"Circuit Breaker, Thermoplastic (120V)",Electrical,91.55,534,Material: Thermoplastic; Size/Spec: 120V; Rating: NEMA 4X; Category: Electrical
+MS-HYD-0134,"Hydraulic Hose, Braided Synthetic Rubber (1-inch)",Hydraulics,227.69,845,Material: Braided Synthetic Rubber; Size/Spec: 1-inch; Rating: ISO 4413 Compliant; Category: Hydraulics
+MS-ABR-0135,"Cut-Off Wheel, Zirconia Alumina (120-Grit)",Abrasives,400.19,88,Material: Zirconia Alumina; Size/Spec: 120-Grit; Rating: ANSI B7.1 Compliant; Category: Abrasives
+MS-FAC-0136,"Industrial Degreaser, Solvent-Based Formula (Industrial Size)",Facility & Janitorial,362.35,583,Material: Solvent-Based Formula; Size/Spec: Industrial Size; Rating: NFPA Compliant; Category: Facility & Janitorial
+MS-VLV-0137,"Gate Valve, Cast Iron (1-inch)",Valves & Fittings,22.03,332,Material: Cast Iron; Size/Spec: 1-inch; Rating: 1000 PSI; Category: Valves & Fittings
+MS-PPE-0138,"Safety Goggles, Polycarbonate (Universal)",Safety & PPE,175.8,264,Material: Polycarbonate; Size/Spec: Universal; Rating: OSHA Compliant; Category: Safety & PPE
+MS-FST-0139,"Lock Nut, 316 Stainless Steel (M10)",Fasteners,339.11,282,Material: 316 Stainless Steel; Size/Spec: M10; Rating: A4-70 Marine Grade; Category: Fasteners
+MS-TLS-0140,"Cordless Drill, Glass-Filled Nylon (Standard)",Power & Hand Tools,122.3,416,Material: Glass-Filled Nylon; Size/Spec: Standard; Rating: UL Listed; Category: Power & Hand Tools
+MS-ELC-0141,"Conduit Pipe, Schedule 80 PVC (120V)",Electrical,313.04,502,Material: Schedule 80 PVC; Size/Spec: 120V; Rating: NEMA 4X; Category: Electrical
+MS-HYD-0142,"Quick Disconnect Coupler, Brass (1/4-inch)",Hydraulics,147.23,414,Material: Brass; Size/Spec: 1/4-inch; Rating: 3000 PSI; Category: Hydraulics
+MS-ABR-0143,"Flap Disc, Zirconia Alumina (120-Grit)",Abrasives,282.7,484,Material: Zirconia Alumina; Size/Spec: 120-Grit; Rating: Industrial Grade; Category: Abrasives
+MS-FAC-0144,"Spill Containment Kit, Polypropylene (Industrial Size)",Facility & Janitorial,174.38,464,Material: Polypropylene; Size/Spec: Industrial Size; Rating: Industrial Grade; Category: Facility & Janitorial
+MS-VLV-0145,"Check Valve, Brass (3/4-inch)",Valves & Fittings,117.2,738,Material: Brass; Size/Spec: 3/4-inch; Rating: 1000 PSI; Category: Valves & Fittings
+MS-PPE-0146,"Hard Hat, High-Density Polyethylene (X-Large)",Safety & PPE,358.77,780,Material: High-Density Polyethylene; Size/Spec: X-Large; Rating: OSHA Compliant; Category: Safety & PPE
+MS-FST-0147,"Flat Washer, Zinc-Plated Steel (M8)",Fasteners,356.75,283,Material: Zinc-Plated Steel; Size/Spec: M8; Rating: Grade 5; Category: Fasteners
+MS-TLS-0148,"Angle Grinder, Die-Cast Aluminum (Compact)",Power & Hand Tools,148.18,369,Material: Die-Cast Aluminum; Size/Spec: Compact; Rating: CE Certified; Category: Power & Hand Tools
+MS-ELC-0149,"Terminal Block, Nylon 66 (240V)",Electrical,342.33,129,Material: Nylon 66; Size/Spec: 240V; Rating: UL Listed; Category: Electrical
+MS-HYD-0150,"Gear Pump, Anodized Aluminum (1/4-inch)",Hydraulics,269.41,714,Material: Anodized Aluminum; Size/Spec: 1/4-inch; Rating: 3000 PSI; Category: Hydraulics
+MS-ABR-0151,"Sanding Belt, Aluminum Oxide (4-1/2-inch)",Abrasives,419.99,587,Material: Aluminum Oxide; Size/Spec: 4-1/2-inch; Rating: ANSI B7.1 Compliant; Category: Abrasives
+MS-FAC-0152,"Pallet Jack Wheel, Nylon (Industrial Size)",Facility & Janitorial,216.18,188,Material: Nylon; Size/Spec: Industrial Size; Rating: Biodegradable; Category: Facility & Janitorial
+MS-VLV-0153,"Butterfly Valve, Carbon Steel (3/4-inch)",Valves & Fittings,62.29,66,Material: Carbon Steel; Size/Spec: 3/4-inch; Rating: 3000 PSI; Category: Valves & Fittings
+MS-PPE-0154,"Steel-Toe Boots, Full-Grain Leather (Universal)",Safety & PPE,280.57,702,Material: Full-Grain Leather; Size/Spec: Universal; Rating: OSHA Compliant; Category: Safety & PPE
+MS-FST-0155,"Socket Cap Screw, Alloy Steel (M8)",Fasteners,390.95,311,Material: Alloy Steel; Size/Spec: M8; Rating: Grade 5; Category: Fasteners
+MS-TLS-0156,"Torque Wrench, Chrome Vanadium (Standard)",Power & Hand Tools,271.63,426,Material: Chrome Vanadium; Size/Spec: Standard; Rating: UL Listed; Category: Power & Hand Tools
+MS-ELC-0157,"Relay Switch, Thermoset Resin (480V)",Electrical,436.86,304,Material: Thermoset Resin; Size/Spec: 480V; Rating: NEMA 4X; Category: Electrical
+MS-HYD-0158,"Hydraulic Cylinder, Chrome-Plated Steel (1/2-inch)",Hydraulics,295.94,757,Material: Chrome-Plated Steel; Size/Spec: 1/2-inch; Rating: 3000 PSI; Category: Hydraulics
+MS-ABR-0159,"Grinding Wheel, Aluminum Oxide (80-Grit)",Abrasives,108.0,676,Material: Aluminum Oxide; Size/Spec: 80-Grit; Rating: Industrial Grade; Category: Abrasives
+MS-FAC-0160,"Floor Marking Tape, Vinyl (Heavy-Duty)",Facility & Janitorial,90.45,76,Material: Vinyl; Size/Spec: Heavy-Duty; Rating: NFPA Compliant; Category: Facility & Janitorial
+MS-VLV-0161,"Needle Valve, 316 Stainless Steel (1/4-inch)",Valves & Fittings,220.91,608,Material: 316 Stainless Steel; Size/Spec: 1/4-inch; Rating: 3000 PSI; Category: Valves & Fittings
+MS-PPE-0162,"Respirator Mask, Silicone (X-Large)",Safety & PPE,117.64,723,Material: Silicone; Size/Spec: X-Large; Rating: OSHA Compliant; Category: Safety & PPE
+MS-FST-0163,"Concrete Anchor, 316 Stainless Steel (1/2-inch)",Fasteners,42.06,239,Material: 316 Stainless Steel; Size/Spec: 1/2-inch; Rating: Grade 8; Category: Fasteners
+MS-TLS-0164,"Digital Caliper, Hardened Stainless Steel (Standard)",Power & Hand Tools,62.62,230,Material: Hardened Stainless Steel; Size/Spec: Standard; Rating: IP54 Dust Protected; Category: Power & Hand Tools
+MS-ELC-0165,"Control Transformer, Copper-Wound (240V)",Electrical,42.17,169,Material: Copper-Wound; Size/Spec: 240V; Rating: IP67 Waterproof; Category: Electrical
+MS-HYD-0166,"Pressure Gauge, 316 Stainless Steel (1-inch)",Hydraulics,215.56,479,Material: 316 Stainless Steel; Size/Spec: 1-inch; Rating: 6000 PSI; Category: Hydraulics
+MS-ABR-0167,"Wire Cup Brush, Stainless Steel Wire (4-1/2-inch)",Abrasives,244.47,505,"Material: Stainless Steel Wire; Size/Spec: 4-1/2-inch; Rating: Max 12,000 RPM; Category: Abrasives"
+MS-FAC-0168,"Absorbent Pads, Polypropylene (Standard)",Facility & Janitorial,427.86,752,Material: Polypropylene; Size/Spec: Standard; Rating: OSHA Compliant; Category: Facility & Janitorial
+MS-VLV-0169,"Pressure Relief Valve, 316 Stainless Steel (2-inch)",Valves & Fittings,20.7,234,Material: 316 Stainless Steel; Size/Spec: 2-inch; Rating: 1000 PSI; Category: Valves & Fittings
+MS-PPE-0170,"Ear Muffs, ABS Plastic (X-Large)",Safety & PPE,27.47,774,Material: ABS Plastic; Size/Spec: X-Large; Rating: CE Certified; Category: Safety & PPE
+MS-FST-0171,"Threaded Rod, Carbon Steel (M12)",Fasteners,315.69,284,Material: Carbon Steel; Size/Spec: M12; Rating: A4-70 Marine Grade; Category: Fasteners
+MS-TLS-0172,"Pipe Cutter, Hardened Steel (Professional Kit)",Power & Hand Tools,465.41,481,Material: Hardened Steel; Size/Spec: Professional Kit; Rating: IP54 Dust Protected; Category: Power & Hand Tools
+MS-ELC-0173,"Junction Box, Polycarbonate (480V)",Electrical,159.88,107,Material: Polycarbonate; Size/Spec: 480V; Rating: CE Certified; Category: Electrical
+MS-HYD-0174,"Oil Filter Element, Cellulose Fiber (1/2-inch)",Hydraulics,335.57,295,Material: Cellulose Fiber; Size/Spec: 1/2-inch; Rating: ISO 4413 Compliant; Category: Hydraulics
+MS-ABR-0175,"Polishing Pad, Foam (6-inch)",Abrasives,222.95,322,Material: Foam; Size/Spec: 6-inch; Rating: ANSI B7.1 Compliant; Category: Abrasives
+MS-FAC-0176,"Safety Cabinet, Powder-Coated Steel (Bulk Pack)",Facility & Janitorial,465.94,413,Material: Powder-Coated Steel; Size/Spec: Bulk Pack; Rating: OSHA Compliant; Category: Facility & Janitorial
+MS-VLV-0177,"Elbow Fitting, 316 Stainless Steel (2-inch)",Valves & Fittings,203.35,192,Material: 316 Stainless Steel; Size/Spec: 2-inch; Rating: 3000 PSI; Category: Valves & Fittings
+MS-PPE-0178,"High-Vis Vest, Polyester Mesh (Universal)",Safety & PPE,216.92,52,Material: Polyester Mesh; Size/Spec: Universal; Rating: CE Certified; Category: Safety & PPE
+MS-FST-0179,"Spring Pin, Carbon Steel (M10)",Fasteners,70.27,294,Material: Carbon Steel; Size/Spec: M10; Rating: A4-70 Marine Grade; Category: Fasteners
+MS-TLS-0180,"Crimping Tool, Forged Steel (Professional Kit)",Power & Hand Tools,22.11,645,Material: Forged Steel; Size/Spec: Professional Kit; Rating: UL Listed; Category: Power & Hand Tools
+MS-ELC-0181,"Proximity Sensor, 316 Stainless Steel (120V)",Electrical,268.22,565,Material: 316 Stainless Steel; Size/Spec: 120V; Rating: CE Certified; Category: Electrical
+MS-HYD-0182,"Manifold Block, Carbon Steel (1/4-inch)",Hydraulics,476.35,116,Material: Carbon Steel; Size/Spec: 1/4-inch; Rating: 5000 PSI; Category: Hydraulics
+MS-ABR-0183,"Deburring Burr, Tungsten Carbide (60-Grit)",Abrasives,400.86,510,Material: Tungsten Carbide; Size/Spec: 60-Grit; Rating: Industrial Grade; Category: Abrasives
+MS-FAC-0184,"Drum Pump, 316 Stainless Steel (Bulk Pack)",Facility & Janitorial,402.07,483,Material: 316 Stainless Steel; Size/Spec: Bulk Pack; Rating: Biodegradable; Category: Facility & Janitorial
+MS-VLV-0185,"Tee Coupling, Brass (1-inch)",Valves & Fittings,189.36,613,Material: Brass; Size/Spec: 1-inch; Rating: 300 PSI; Category: Valves & Fittings
+MS-PPE-0186,"Chemical Apron, PVC-Coated Fabric (Medium)",Safety & PPE,372.82,424,Material: PVC-Coated Fabric; Size/Spec: Medium; Rating: ANSI Certified; Category: Safety & PPE
+MS-FST-0187,"Blind Rivet, Steel (1/4-inch)",Fasteners,395.39,289,Material: Steel; Size/Spec: 1/4-inch; Rating: Grade 8; Category: Fasteners
+MS-TLS-0188,"Heat Gun, Glass-Filled Nylon (Professional Kit)",Power & Hand Tools,219.05,495,Material: Glass-Filled Nylon; Size/Spec: Professional Kit; Rating: CE Certified; Category: Power & Hand Tools
+MS-ELC-0189,"Cable Gland, Nylon (240V)",Electrical,223.19,329,Material: Nylon; Size/Spec: 240V; Rating: NEMA 4X; Category: Electrical
+MS-HYD-0190,"Seal Kit, Viton (3/8-inch)",Hydraulics,118.62,794,Material: Viton; Size/Spec: 3/8-inch; Rating: ISO 4413 Compliant; Category: Hydraulics
+MS-ABR-0191,"Emery Cloth, Emery (60-Grit)",Abrasives,359.63,722,"Material: Emery; Size/Spec: 60-Grit; Rating: Max 12,000 RPM; Category: Abrasives"
+MS-FAC-0192,"LED High-Bay Light, Die-Cast Aluminum (Industrial Size)",Facility & Janitorial,242.05,37,Material: Die-Cast Aluminum; Size/Spec: Industrial Size; Rating: NFPA Compliant; Category: Facility & Janitorial
+MS-VLV-0193,"Ball Valve, 316 Stainless Steel (2-inch)",Valves & Fittings,418.56,450,Material: 316 Stainless Steel; Size/Spec: 2-inch; Rating: 1000 PSI; Category: Valves & Fittings
+MS-PPE-0194,"Nitrile Gloves, Reinforced Nitrile (Universal)",Safety & PPE,349.13,419,Material: Reinforced Nitrile; Size/Spec: Universal; Rating: OSHA Compliant; Category: Safety & PPE
+MS-FST-0195,"Hex Bolt, Alloy Steel (M8)",Fasteners,229.86,271,Material: Alloy Steel; Size/Spec: M8; Rating: Grade 5; Category: Fasteners
+MS-TLS-0196,"Impact Wrench, Chrome Vanadium (Professional Kit)",Power & Hand Tools,410.11,690,Material: Chrome Vanadium; Size/Spec: Professional Kit; Rating: UL Listed; Category: Power & Hand Tools
+MS-ELC-0197,"Circuit Breaker, Thermoplastic (240V)",Electrical,419.83,36,Material: Thermoplastic; Size/Spec: 240V; Rating: NEMA 4X; Category: Electrical
+MS-HYD-0198,"Hydraulic Hose, Braided Synthetic Rubber (3/8-inch)",Hydraulics,478.79,764,Material: Braided Synthetic Rubber; Size/Spec: 3/8-inch; Rating: 6000 PSI; Category: Hydraulics
+MS-ABR-0199,"Cut-Off Wheel, Aluminum Oxide (4-1/2-inch)",Abrasives,367.01,720,Material: Aluminum Oxide; Size/Spec: 4-1/2-inch; Rating: ANSI B7.1 Compliant; Category: Abrasives
+MS-FAC-0200,"Industrial Degreaser, Water-Based Formula (Industrial Size)",Facility & Janitorial,335.72,29,Material: Water-Based Formula; Size/Spec: Industrial Size; Rating: NFPA Compliant; Category: Facility & Janitorial

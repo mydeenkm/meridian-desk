@@ -1,0 +1,7 @@
+.env
+desk-env/
+__pycache__/
+*.egg-info/
+build/
+dist/
+CH_2/session_store/*.json

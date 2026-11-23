@@ -1,0 +1,11 @@
+From: Tom Brandt <tom@keystonefoundry.example>
+To: support@msindustrial.example
+Date: Mon, 16 Nov 2026 15:12 -0600
+Subject: Quote: hex bolts, and payment terms
+
+Hello,
+
+Please quote 500 of MS-FST-0003 (hex bolt, alloy steel, M6). We would also like Net 60 payment terms on this order. When could you deliver all 500?
+
+Tom Brandt
+Keystone Foundry

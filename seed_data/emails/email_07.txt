@@ -1,0 +1,10 @@
+From: Marcus Lee <marcus@pacificcold.example>
+To: support@msindustrial.example
+Date: Tue, 17 Nov 2026 08:15 -0600
+Subject: Status of MS-10225
+
+Hi,
+
+Can you tell me where order MS-10225 stands and when I should expect it? We placed it yesterday.
+
+Marcus Lee

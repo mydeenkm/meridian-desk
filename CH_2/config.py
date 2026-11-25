@@ -5,7 +5,7 @@ SESSION_STORE = SCRIPT_DIR / "session_store"
 ACTIONABLE_COMMANDS = ["/reset", "/save", "/load"]
 
 DEFAULT_WINDOW_TURNS = 10      # Max conversation turns (1 turn = user + assistant)
-MAX_HISTORY_TOKENS = 4000      # Token threshold before dropping oldest turns
+MAX_HISTORY_TOKENS = 2000      # Token threshold before dropping oldest turns
 
 FALLBACK_PRICING_PER_1M = {
     ":free": (0.0, 0.0),

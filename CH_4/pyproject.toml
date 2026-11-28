@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "meridian-desk"
+version = "0.1.0"
+requires-python = ">=3.10"
+
+[project.scripts]
+desk = "main:main"
+
+[tool.setuptools]
+py-modules = ["config", "desk", "ingestion", "llm_client", "main", "session"]

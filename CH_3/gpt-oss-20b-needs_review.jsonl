@@ -1,0 +1,57 @@
+{
+  "email_10": {
+    "status": "need_review",
+    "attempts": 3,
+    "prompt_tokens": 4710,
+    "completion_tokens": 2119,
+    "total_tokens": 6829,
+    "cost_usd": 0.0,
+    "latency_sec": 55.61,
+    "data": "",
+    "error": "API error: Error code: 429 - Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01kcjvam06emsrvgk5p15r8g89` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 4467, Requested 3576. Please try again in 322.499999ms. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing"
+  },
+  "email_13": {
+    "status": "need_review",
+    "attempts": 1,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 0,
+    "cost_usd": 0.0,
+    "latency_sec": 4.23,
+    "data": "",
+    "error": "API error: Error code: 429 - Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01kcjvam06emsrvgk5p15r8g89` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 4584, Requested 3689. Please try again in 2.0475s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing"
+  },
+  "email_15": {
+    "status": "need_review",
+    "attempts": 2,
+    "prompt_tokens": 2258,
+    "completion_tokens": 447,
+    "total_tokens": 2705,
+    "cost_usd": 0.0,
+    "latency_sec": 37.59,
+    "data": "",
+    "error": "API error: Error code: 429 - Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01kcjvam06emsrvgk5p15r8g89` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 4411, Requested 3798. Please try again in 1.5675s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing"
+  },
+  "email_24": {
+    "status": "need_review",
+    "attempts": 2,
+    "prompt_tokens": 2226,
+    "completion_tokens": 1063,
+    "total_tokens": 3289,
+    "cost_usd": 0.0,
+    "latency_sec": 17.29,
+    "data": "",
+    "error": "API error: Error code: 400 - Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details."
+  },
+  "email_29": {
+    "status": "need_review",
+    "attempts": 1,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 0,
+    "cost_usd": 0.0,
+    "latency_sec": 19.74,
+    "data": "",
+    "error": "API error: Error code: 429 - Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01kcjvam06emsrvgk5p15r8g89` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 4343, Requested 3687. Please try again in 224.999999ms. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing"
+  }
+}

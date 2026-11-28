@@ -1,0 +1,644 @@
+{
+  "email_01": {
+    "status": "valid",
+    "attempts": 1,
+    "prompt_tokens": 2270,
+    "completion_tokens": 270,
+    "total_tokens": 2540,
+    "cost_usd": 0.0,
+    "latency_sec": 0.78,
+    "data": {
+      "customer": "Ironclad Construction",
+      "intent": "order",
+      "line_items": [
+        {
+          "sku": "MS-PPE-0002",
+          "description": null,
+          "quantity": 200.0,
+          "unit": null
+        },
+        {
+          "sku": "MS-PPE-0106",
+          "description": null,
+          "quantity": 40.0,
+          "unit": null
+        }
+      ],
+      "requested_date": null,
+      "urgency": "normal",
+      "confidence": 0.95
+    }
+  },
+  "email_02": {
+    "status": "valid",
+    "attempts": 1,
+    "prompt_tokens": 2247,
+    "completion_tokens": 428,
+    "total_tokens": 2675,
+    "cost_usd": 0.0,
+    "latency_sec": 1.02,
+    "data": {
+      "customer": "Raj Patel",
+      "intent": "order",
+      "line_items": [
+        {
+          "sku": null,
+          "description": "stainless ball valves, 2 inch",
+          "quantity": 20.0,
+          "unit": null
+        }
+      ],
+      "requested_date": null,
+      "urgency": "normal",
+      "confidence": 0.95
+    }
+  },
+  "email_03": {
+    "status": "valid",
+    "attempts": 3,
+    "prompt_tokens": 7178,
+    "completion_tokens": 2214,
+    "total_tokens": 9392,
+    "cost_usd": 0.0,
+    "latency_sec": 47.99,
+    "data": {
+      "customer": "Frontier Mining Supply",
+      "intent": "order",
+      "line_items": [
+        {
+          "sku": null,
+          "description": null,
+          "quantity": 1.0,
+          "unit": null
+        },
+        {
+          "sku": null,
+          "description": null,
+          "quantity": 1.0,
+          "unit": null
+        }
+      ],
+      "requested_date": null,
+      "urgency": "normal",
+      "confidence": 0.92
+    }
+  },
+  "email_04": {
+    "status": "valid",
+    "attempts": 1,
+    "prompt_tokens": 2270,
+    "completion_tokens": 627,
+    "total_tokens": 2897,
+    "cost_usd": 0.0,
+    "latency_sec": 23.84,
+    "data": {
+      "customer": "Heartland Ag",
+      "intent": "order",
+      "line_items": [
+        {
+          "sku": null,
+          "description": "solvent degreaser, big size",
+          "quantity": 12.0,
+          "unit": null
+        },
+        {
+          "sku": null,
+          "description": "drum pump",
+          "quantity": 1.0,
+          "unit": null
+        }
+      ],
+      "requested_date": "2026-11-20",
+      "urgency": "normal",
+      "confidence": 0.95
+    }
+  },
+  "email_05": {
+    "status": "valid",
+    "attempts": 1,
+    "prompt_tokens": 2262,
+    "completion_tokens": 429,
+    "total_tokens": 2691,
+    "cost_usd": 0.0,
+    "latency_sec": 21.44,
+    "data": {
+      "customer": "Delta Chemical Works",
+      "intent": "order",
+      "line_items": [
+        {
+          "sku": "MS-FAC-0136",
+          "description": "solvent degreaser, industrial size",
+          "quantity": 60.0,
+          "unit": "units"
+        }
+      ],
+      "requested_date": null,
+      "urgency": "high",
+      "confidence": 0.95
+    }
+  },
+  "email_06": {
+    "status": "valid",
+    "attempts": 1,
+    "prompt_tokens": 2258,
+    "completion_tokens": 427,
+    "total_tokens": 2685,
+    "cost_usd": 0.0,
+    "latency_sec": 20.49,
+    "data": {
+      "customer": "Keystone Foundry",
+      "intent": "other",
+      "line_items": [
+        {
+          "sku": "MS-FST-0003",
+          "description": "hex bolt, alloy steel, M6",
+          "quantity": 500.0,
+          "unit": null
+        }
+      ],
+      "requested_date": null,
+      "urgency": "normal",
+      "confidence": 0.95
+    }
+  },
+  "email_07": {
+    "status": "valid",
+    "attempts": 2,
+    "prompt_tokens": 4568,
+    "completion_tokens": 714,
+    "total_tokens": 5282,
+    "cost_usd": 0.0,
+    "latency_sec": 26.45,
+    "data": {
+      "customer": "Marcus Lee",
+      "intent": "status",
+      "line_items": [],
+      "requested_date": null,
+      "urgency": "normal",
+      "confidence": 0.95
+    }
+  },
+  "email_08": {
+    "status": "valid",
+    "attempts": 2,
+    "prompt_tokens": 4580,
+    "completion_tokens": 488,
+    "total_tokens": 5068,
+    "cost_usd": 0.0,
+    "latency_sec": 22.03,
+    "data": {
+      "customer": "Summit Aerospace Parts",
+      "intent": "status",
+      "line_items": [],
+      "requested_date": null,
+      "urgency": "normal",
+      "confidence": 0.95
+    }
+  },
+  "email_09": {
+    "status": "valid",
+    "attempts": 2,
+    "prompt_tokens": 4616,
+    "completion_tokens": 874,
+    "total_tokens": 5490,
+    "cost_usd": 0.0,
+    "latency_sec": 11.41,
+    "data": {
+      "customer": "metrorail-maint",
+      "intent": "status",
+      "line_items": [],
+      "requested_date": null,
+      "urgency": "normal",
+      "confidence": 0.95
+    }
+  },
+  "email_10": {
+    "status": "need_review",
+    "attempts": 3,
+    "prompt_tokens": 4710,
+    "completion_tokens": 2119,
+    "total_tokens": 6829,
+    "cost_usd": 0.0,
+    "latency_sec": 55.61,
+    "data": "",
+    "error": "API error: Error code: 429 - Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01kcjvam06emsrvgk5p15r8g89` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 4467, Requested 3576. Please try again in 322.499999ms. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing"
+  },
+  "email_11": {
+    "status": "valid",
+    "attempts": 3,
+    "prompt_tokens": 7537,
+    "completion_tokens": 2570,
+    "total_tokens": 10107,
+    "cost_usd": 0.0,
+    "latency_sec": 49.18,
+    "data": {
+      "customer": "Blueridge Energy",
+      "intent": "status",
+      "line_items": [
+        {
+          "sku": null,
+          "description": null,
+          "quantity": 1.0,
+          "unit": null
+        },
+        {
+          "sku": null,
+          "description": null,
+          "quantity": 1.0,
+          "unit": null
+        }
+      ],
+      "requested_date": null,
+      "urgency": "high",
+      "confidence": 0.6
+    }
+  },
+  "email_12": {
+    "status": "valid",
+    "attempts": 2,
+    "prompt_tokens": 4626,
+    "completion_tokens": 1179,
+    "total_tokens": 5805,
+    "cost_usd": 0.0,
+    "latency_sec": 19.0,
+    "data": {
+      "customer": "Cascadia Pulp & Paper",
+      "intent": "complaint",
+      "line_items": [],
+      "requested_date": null,
+      "urgency": "high",
+      "confidence": 0.95
+    }
+  },
+  "email_13": {
+    "status": "need_review",
+    "attempts": 1,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 0,
+    "cost_usd": 0.0,
+    "latency_sec": 4.23,
+    "data": "",
+    "error": "API error: Error code: 429 - Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01kcjvam06emsrvgk5p15r8g89` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 4584, Requested 3689. Please try again in 2.0475s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing"
+  },
+  "email_14": {
+    "status": "valid",
+    "attempts": 2,
+    "prompt_tokens": 4676,
+    "completion_tokens": 1072,
+    "total_tokens": 5748,
+    "cost_usd": 0.0,
+    "latency_sec": 11.78,
+    "data": {
+      "customer": "Bill Granger",
+      "intent": "complaint",
+      "line_items": [
+        {
+          "sku": "MS-PPE-0098",
+          "description": "respirator masks",
+          "quantity": 6.0,
+          "unit": null
+        }
+      ],
+      "requested_date": null,
+      "urgency": "normal",
+      "confidence": 0.95
+    }
+  },
+  "email_15": {
+    "status": "need_review",
+    "attempts": 2,
+    "prompt_tokens": 2258,
+    "completion_tokens": 447,
+    "total_tokens": 2705,
+    "cost_usd": 0.0,
+    "latency_sec": 37.59,
+    "data": "",
+    "error": "API error: Error code: 429 - Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01kcjvam06emsrvgk5p15r8g89` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 4411, Requested 3798. Please try again in 1.5675s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing"
+  },
+  "email_16": {
+    "status": "valid",
+    "attempts": 1,
+    "prompt_tokens": 2254,
+    "completion_tokens": 756,
+    "total_tokens": 3010,
+    "cost_usd": 0.0,
+    "latency_sec": 2.55,
+    "data": {
+      "customer": "Vanguard Logistics",
+      "intent": "complaint",
+      "line_items": [
+        {
+          "sku": "MS-ELC-0029",
+          "description": "relay switches",
+          "quantity": 25.0,
+          "unit": "pcs"
+        }
+      ],
+      "requested_date": null,
+      "urgency": "normal",
+      "confidence": 0.95
+    }
+  },
+  "email_17": {
+    "status": "valid",
+    "attempts": 1,
+    "prompt_tokens": 2264,
+    "completion_tokens": 522,
+    "total_tokens": 2786,
+    "cost_usd": 0.0,
+    "latency_sec": 22.48,
+    "data": {
+      "customer": "Sam Okafor",
+      "intent": "return",
+      "line_items": [
+        {
+          "sku": "MS-FAC-0056",
+          "description": "drum pumps",
+          "quantity": 10.0,
+          "unit": null
+        }
+      ],
+      "requested_date": null,
+      "urgency": "normal",
+      "confidence": 0.95
+    }
+  },
+  "email_18": {
+    "status": "valid",
+    "attempts": 1,
+    "prompt_tokens": 2261,
+    "completion_tokens": 402,
+    "total_tokens": 2663,
+    "cost_usd": 0.0,
+    "latency_sec": 5.13,
+    "data": {
+      "customer": "Paul Whitaker",
+      "intent": "return",
+      "line_items": [
+        {
+          "sku": "MS-ABR-0087",
+          "description": "sanding belts",
+          "quantity": 15.0,
+          "unit": null
+        }
+      ],
+      "requested_date": null,
+      "urgency": "normal",
+      "confidence": 0.95
+    }
+  },
+  "email_19": {
+    "status": "valid",
+    "attempts": 1,
+    "prompt_tokens": 2239,
+    "completion_tokens": 335,
+    "total_tokens": 2574,
+    "cost_usd": 0.0,
+    "latency_sec": 18.31,
+    "data": {
+      "customer": "Alan Reyes",
+      "intent": "return",
+      "line_items": [
+        {
+          "sku": null,
+          "description": "solvent degreaser",
+          "quantity": 4.0,
+          "unit": "drums"
+        }
+      ],
+      "requested_date": null,
+      "urgency": "normal",
+      "confidence": 0.95
+    }
+  },
+  "email_20": {
+    "status": "valid",
+    "attempts": 1,
+    "prompt_tokens": 2249,
+    "completion_tokens": 704,
+    "total_tokens": 2953,
+    "cost_usd": 0.0,
+    "latency_sec": 21.63,
+    "data": {
+      "customer": "Raj Patel",
+      "intent": "return",
+      "line_items": [
+        {
+          "sku": "MS-FST-0123",
+          "description": "blind rivets",
+          "quantity": 6.0,
+          "unit": null
+        }
+      ],
+      "requested_date": null,
+      "urgency": "normal",
+      "confidence": 0.95
+    }
+  },
+  "email_21": {
+    "status": "valid",
+    "attempts": 1,
+    "prompt_tokens": 2254,
+    "completion_tokens": 951,
+    "total_tokens": 3205,
+    "cost_usd": 0.0,
+    "latency_sec": 18.98,
+    "data": {
+      "customer": "Jorge Alvarez",
+      "intent": "return",
+      "line_items": [
+        {
+          "sku": "MS-TLS-0108",
+          "description": "pipe cutters",
+          "quantity": 4.0,
+          "unit": null
+        }
+      ],
+      "requested_date": null,
+      "urgency": "normal",
+      "confidence": 0.95
+    }
+  },
+  "email_22": {
+    "status": "valid",
+    "attempts": 2,
+    "prompt_tokens": 4621,
+    "completion_tokens": 823,
+    "total_tokens": 5444,
+    "cost_usd": 0.0,
+    "latency_sec": 32.08,
+    "data": {
+      "customer": "Karen Ostrow",
+      "intent": "other",
+      "line_items": [],
+      "requested_date": null,
+      "urgency": "normal",
+      "confidence": 0.95
+    }
+  },
+  "email_23": {
+    "status": "valid",
+    "attempts": 1,
+    "prompt_tokens": 2276,
+    "completion_tokens": 481,
+    "total_tokens": 2757,
+    "cost_usd": 0.0,
+    "latency_sec": 5.3,
+    "data": {
+      "customer": "Paul Whitaker",
+      "intent": "order",
+      "line_items": [
+        {
+          "sku": null,
+          "description": "glass fiber oil filters, 3/8",
+          "quantity": 30.0,
+          "unit": null
+        }
+      ],
+      "requested_date": null,
+      "urgency": "normal",
+      "confidence": 0.75
+    }
+  },
+  "email_24": {
+    "status": "need_review",
+    "attempts": 2,
+    "prompt_tokens": 2226,
+    "completion_tokens": 1063,
+    "total_tokens": 3289,
+    "cost_usd": 0.0,
+    "latency_sec": 17.29,
+    "data": "",
+    "error": "API error: Error code: 400 - Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details."
+  },
+  "email_25": {
+    "status": "valid",
+    "attempts": 1,
+    "prompt_tokens": 2236,
+    "completion_tokens": 315,
+    "total_tokens": 2551,
+    "cost_usd": 0.0,
+    "latency_sec": 22.08,
+    "data": {
+      "customer": "Marcus Lee",
+      "intent": "status",
+      "line_items": [
+        {
+          "sku": "MS-TLS-0092",
+          "description": "torque wrench",
+          "quantity": 25.0,
+          "unit": null
+        }
+      ],
+      "requested_date": null,
+      "urgency": "normal",
+      "confidence": 0.95
+    }
+  },
+  "email_26": {
+    "status": "valid",
+    "attempts": 2,
+    "prompt_tokens": 4607,
+    "completion_tokens": 1522,
+    "total_tokens": 6129,
+    "cost_usd": 0.0,
+    "latency_sec": 13.18,
+    "data": {
+      "customer": "Tom Brandt",
+      "intent": "other",
+      "line_items": [
+        {
+          "sku": null,
+          "description": null,
+          "quantity": 1.0,
+          "unit": null
+        }
+      ],
+      "requested_date": null,
+      "urgency": "normal",
+      "confidence": 0.95
+    }
+  },
+  "email_27": {
+    "status": "valid",
+    "attempts": 2,
+    "prompt_tokens": 4757,
+    "completion_tokens": 2140,
+    "total_tokens": 6897,
+    "cost_usd": 0.0,
+    "latency_sec": 19.7,
+    "data": {
+      "customer": "Nicole Brandt",
+      "intent": "status",
+      "line_items": [
+        {
+          "sku": null,
+          "description": "hard hats",
+          "quantity": 1.0,
+          "unit": null
+        },
+        {
+          "sku": null,
+          "description": "flat washers",
+          "quantity": 1.0,
+          "unit": null
+        },
+        {
+          "sku": null,
+          "description": "manifold block",
+          "quantity": 1.0,
+          "unit": null
+        }
+      ],
+      "requested_date": null,
+      "urgency": "normal",
+      "confidence": 0.95
+    }
+  },
+  "email_28": {
+    "status": "valid",
+    "attempts": 2,
+    "prompt_tokens": 4588,
+    "completion_tokens": 925,
+    "total_tokens": 5513,
+    "cost_usd": 0.0,
+    "latency_sec": 11.61,
+    "data": {
+      "customer": "Dana Whitfield",
+      "intent": "other",
+      "line_items": [],
+      "requested_date": "2026-11-18",
+      "urgency": "high",
+      "confidence": 0.95
+    }
+  },
+  "email_29": {
+    "status": "need_review",
+    "attempts": 1,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "total_tokens": 0,
+    "cost_usd": 0.0,
+    "latency_sec": 19.74,
+    "data": "",
+    "error": "API error: Error code: 429 - Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01kcjvam06emsrvgk5p15r8g89` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 4343, Requested 3687. Please try again in 224.999999ms. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing"
+  },
+  "email_30": {
+    "status": "valid",
+    "attempts": 2,
+    "prompt_tokens": 4617,
+    "completion_tokens": 825,
+    "total_tokens": 5442,
+    "cost_usd": 0.0,
+    "latency_sec": 6.96,
+    "data": {
+      "customer": "Linda Ferris",
+      "intent": "complaint",
+      "line_items": [],
+      "requested_date": "2026-11-16",
+      "urgency": "high",
+      "confidence": 0.95
+    }
+  }
+}

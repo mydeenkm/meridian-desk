@@ -1,0 +1,745 @@
+{
+  "email_01": {
+    "status": "valid",
+    "attempts": 1,
+    "prompt_tokens": 1799,
+    "completion_tokens": 104,
+    "total_tokens": 1903,
+    "cost_usd": 0.0,
+    "latency_sec": 0.97,
+    "data": {
+      "customer": "Ironclad Construction",
+      "intent": "order",
+      "line_items": [
+        {
+          "sku": "MS-PPE-0002",
+          "description": null,
+          "quantity": 200.0,
+          "unit": null
+        },
+        {
+          "sku": "MS-PPE-0106",
+          "description": null,
+          "quantity": 40.0,
+          "unit": null
+        }
+      ],
+      "requested_date": null,
+      "urgency": "normal",
+      "confidence": 0.95
+    }
+  },
+  "email_02": {
+    "status": "valid",
+    "attempts": 1,
+    "prompt_tokens": 1766,
+    "completion_tokens": 71,
+    "total_tokens": 1837,
+    "cost_usd": 0.0,
+    "latency_sec": 0.41,
+    "data": {
+      "customer": "apexfab",
+      "intent": "order",
+      "line_items": [
+        {
+          "sku": null,
+          "description": "stainless ball valves 2 inch",
+          "quantity": 20.0,
+          "unit": null
+        }
+      ],
+      "requested_date": null,
+      "urgency": "normal",
+      "confidence": 0.85
+    }
+  },
+  "email_03": {
+    "status": "valid",
+    "attempts": 1,
+    "prompt_tokens": 1765,
+    "completion_tokens": 63,
+    "total_tokens": 1828,
+    "cost_usd": 0.0,
+    "latency_sec": 0.37,
+    "data": {
+      "customer": "Frontier Mining Supply",
+      "intent": "order",
+      "line_items": [
+        {
+          "sku": null,
+          "description": null,
+          "quantity": 2.0,
+          "unit": null
+        }
+      ],
+      "requested_date": null,
+      "urgency": "normal",
+      "confidence": 0.9
+    }
+  },
+  "email_04": {
+    "status": "valid",
+    "attempts": 1,
+    "prompt_tokens": 1788,
+    "completion_tokens": 109,
+    "total_tokens": 1897,
+    "cost_usd": 0.0,
+    "latency_sec": 0.47,
+    "data": {
+      "customer": "Heartland Ag",
+      "intent": "order",
+      "line_items": [
+        {
+          "sku": null,
+          "description": "solvent degreaser, big size",
+          "quantity": 12.0,
+          "unit": null
+        },
+        {
+          "sku": null,
+          "description": "drum pump for big drums",
+          "quantity": 1.0,
+          "unit": null
+        }
+      ],
+      "requested_date": "2026-11-20",
+      "urgency": "normal",
+      "confidence": 0.85
+    }
+  },
+  "email_05": {
+    "status": "valid",
+    "attempts": 1,
+    "prompt_tokens": 1785,
+    "completion_tokens": 92,
+    "total_tokens": 1877,
+    "cost_usd": 0.0,
+    "latency_sec": 15.87,
+    "data": {
+      "customer": "Delta Chemical Works",
+      "intent": "order",
+      "line_items": [
+        {
+          "sku": "MS-FAC-0136",
+          "description": "solvent degreaser, industrial size",
+          "quantity": 60.0,
+          "unit": "units"
+        }
+      ],
+      "requested_date": "2026-11-19",
+      "urgency": "high",
+      "confidence": 0.95
+    }
+  },
+  "email_06": {
+    "status": "valid",
+    "attempts": 1,
+    "prompt_tokens": 1784,
+    "completion_tokens": 82,
+    "total_tokens": 1866,
+    "cost_usd": 0.0,
+    "latency_sec": 14.78,
+    "data": {
+      "customer": "Keystone Foundry",
+      "intent": "order",
+      "line_items": [
+        {
+          "sku": "MS-FST-0003",
+          "description": "hex bolt, alloy steel, M6",
+          "quantity": 500.0,
+          "unit": null
+        }
+      ],
+      "requested_date": null,
+      "urgency": "normal",
+      "confidence": 0.95
+    }
+  },
+  "email_07": {
+    "status": "valid",
+    "attempts": 1,
+    "prompt_tokens": 1755,
+    "completion_tokens": 63,
+    "total_tokens": 1818,
+    "cost_usd": 0.0,
+    "latency_sec": 15.76,
+    "data": {
+      "customer": "pacificcold",
+      "intent": "status",
+      "line_items": [
+        {
+          "sku": null,
+          "description": null,
+          "quantity": 1.0,
+          "unit": null
+        }
+      ],
+      "requested_date": null,
+      "urgency": "normal",
+      "confidence": 0.95
+    }
+  },
+  "email_08": {
+    "status": "valid",
+    "attempts": 1,
+    "prompt_tokens": 1760,
+    "completion_tokens": 71,
+    "total_tokens": 1831,
+    "cost_usd": 0.0,
+    "latency_sec": 14.95,
+    "data": {
+      "customer": "Summit Aerospace Parts",
+      "intent": "status",
+      "line_items": [
+        {
+          "sku": "MS-10333",
+          "description": null,
+          "quantity": 1.0,
+          "unit": null
+        }
+      ],
+      "requested_date": null,
+      "urgency": "normal",
+      "confidence": 0.95
+    }
+  },
+  "email_09": {
+    "status": "valid",
+    "attempts": 1,
+    "prompt_tokens": 1781,
+    "completion_tokens": 63,
+    "total_tokens": 1844,
+    "cost_usd": 0.0,
+    "latency_sec": 14.97,
+    "data": {
+      "customer": "Jorge Alvarez",
+      "intent": "status",
+      "line_items": [
+        {
+          "sku": null,
+          "description": null,
+          "quantity": 1.0,
+          "unit": null
+        }
+      ],
+      "requested_date": null,
+      "urgency": "normal",
+      "confidence": 0.95
+    }
+  },
+  "email_10": {
+    "status": "valid",
+    "attempts": 1,
+    "prompt_tokens": 1800,
+    "completion_tokens": 68,
+    "total_tokens": 1868,
+    "cost_usd": 0.0,
+    "latency_sec": 15.77,
+    "data": {
+      "customer": "Sam Okafor",
+      "intent": "status",
+      "line_items": [
+        {
+          "sku": null,
+          "description": "drum pumps",
+          "quantity": 10.0,
+          "unit": null
+        }
+      ],
+      "requested_date": null,
+      "urgency": "normal",
+      "confidence": 0.65
+    }
+  },
+  "email_11": {
+    "status": "valid",
+    "attempts": 1,
+    "prompt_tokens": 1848,
+    "completion_tokens": 108,
+    "total_tokens": 1956,
+    "cost_usd": 0.0,
+    "latency_sec": 15.9,
+    "data": {
+      "customer": "blueridge-energy",
+      "intent": "status",
+      "line_items": [
+        {
+          "sku": "MS-10346",
+          "description": null,
+          "quantity": 1.0,
+          "unit": null
+        },
+        {
+          "sku": "MS-10111",
+          "description": null,
+          "quantity": 1.0,
+          "unit": null
+        }
+      ],
+      "requested_date": "2026-11-17",
+      "urgency": "high",
+      "confidence": 0.9
+    }
+  },
+  "email_12": {
+    "status": "valid",
+    "attempts": 1,
+    "prompt_tokens": 1782,
+    "completion_tokens": 78,
+    "total_tokens": 1860,
+    "cost_usd": 0.0,
+    "latency_sec": 14.78,
+    "data": {
+      "customer": "Cascadia Pulp & Paper",
+      "intent": "complaint",
+      "line_items": [
+        {
+          "sku": "MS-10480",
+          "description": null,
+          "quantity": 0.01,
+          "unit": null
+        }
+      ],
+      "requested_date": null,
+      "urgency": "high",
+      "confidence": 0.95
+    }
+  },
+  "email_13": {
+    "status": "valid",
+    "attempts": 1,
+    "prompt_tokens": 1786,
+    "completion_tokens": 75,
+    "total_tokens": 1861,
+    "cost_usd": 0.0,
+    "latency_sec": 15.85,
+    "data": {
+      "customer": "Sterling Mfg",
+      "intent": "complaint",
+      "line_items": [
+        {
+          "sku": null,
+          "description": "1/2-inch zinc lock nuts",
+          "quantity": 22.0,
+          "unit": "pcs"
+        }
+      ],
+      "requested_date": null,
+      "urgency": "normal",
+      "confidence": 0.95
+    }
+  },
+  "email_14": {
+    "status": "valid",
+    "attempts": 1,
+    "prompt_tokens": 1788,
+    "completion_tokens": 76,
+    "total_tokens": 1864,
+    "cost_usd": 0.0,
+    "latency_sec": 14.85,
+    "data": {
+      "customer": "Bill Granger",
+      "intent": "complaint",
+      "line_items": [
+        {
+          "sku": "MS-PPE-0098",
+          "description": "respirator masks",
+          "quantity": 6.0,
+          "unit": null
+        }
+      ],
+      "requested_date": null,
+      "urgency": "normal",
+      "confidence": 0.95
+    }
+  },
+  "email_15": {
+    "status": "valid",
+    "attempts": 1,
+    "prompt_tokens": 1784,
+    "completion_tokens": 64,
+    "total_tokens": 1848,
+    "cost_usd": 0.0,
+    "latency_sec": 15.74,
+    "data": {
+      "customer": "Great Lakes Marine",
+      "intent": "complaint",
+      "line_items": [
+        {
+          "sku": null,
+          "description": null,
+          "quantity": 1.0,
+          "unit": null
+        }
+      ],
+      "requested_date": null,
+      "urgency": "high",
+      "confidence": 0.95
+    }
+  },
+  "email_16": {
+    "status": "valid",
+    "attempts": 1,
+    "prompt_tokens": 1787,
+    "completion_tokens": 78,
+    "total_tokens": 1865,
+    "cost_usd": 0.0,
+    "latency_sec": 14.8,
+    "data": {
+      "customer": "Vanguard Logistics",
+      "intent": "complaint",
+      "line_items": [
+        {
+          "sku": "MS-ELC-0029",
+          "description": "relay switches",
+          "quantity": 25.0,
+          "unit": "pcs"
+        }
+      ],
+      "requested_date": null,
+      "urgency": "normal",
+      "confidence": 0.95
+    }
+  },
+  "email_17": {
+    "status": "valid",
+    "attempts": 1,
+    "prompt_tokens": 1793,
+    "completion_tokens": 75,
+    "total_tokens": 1868,
+    "cost_usd": 0.0,
+    "latency_sec": 15.73,
+    "data": {
+      "customer": "titanheavy",
+      "intent": "return",
+      "line_items": [
+        {
+          "sku": "MS-FAC-0056",
+          "description": "drum pumps",
+          "quantity": 10.0,
+          "unit": null
+        }
+      ],
+      "requested_date": null,
+      "urgency": "normal",
+      "confidence": 0.95
+    }
+  },
+  "email_18": {
+    "status": "valid",
+    "attempts": 1,
+    "prompt_tokens": 1793,
+    "completion_tokens": 76,
+    "total_tokens": 1869,
+    "cost_usd": 0.0,
+    "latency_sec": 14.75,
+    "data": {
+      "customer": "Paul Whitaker",
+      "intent": "return",
+      "line_items": [
+        {
+          "sku": "MS-ABR-0087",
+          "description": "sanding belts",
+          "quantity": 15.0,
+          "unit": null
+        }
+      ],
+      "requested_date": null,
+      "urgency": "normal",
+      "confidence": 0.95
+    }
+  },
+  "email_19": {
+    "status": "valid",
+    "attempts": 1,
+    "prompt_tokens": 1765,
+    "completion_tokens": 70,
+    "total_tokens": 1835,
+    "cost_usd": 0.0,
+    "latency_sec": 15.9,
+    "data": {
+      "customer": "Alan Reyes",
+      "intent": "return",
+      "line_items": [
+        {
+          "sku": null,
+          "description": "solvent degreaser",
+          "quantity": 4.0,
+          "unit": "drums"
+        }
+      ],
+      "requested_date": null,
+      "urgency": "normal",
+      "confidence": 0.95
+    }
+  },
+  "email_20": {
+    "status": "valid",
+    "attempts": 1,
+    "prompt_tokens": 1779,
+    "completion_tokens": 74,
+    "total_tokens": 1853,
+    "cost_usd": 0.0,
+    "latency_sec": 14.73,
+    "data": {
+      "customer": "Raj Patel",
+      "intent": "return",
+      "line_items": [
+        {
+          "sku": "MS-FST-0123",
+          "description": "blind rivets",
+          "quantity": 6.0,
+          "unit": null
+        }
+      ],
+      "requested_date": null,
+      "urgency": "normal",
+      "confidence": 0.95
+    }
+  },
+  "email_21": {
+    "status": "valid",
+    "attempts": 1,
+    "prompt_tokens": 1785,
+    "completion_tokens": 75,
+    "total_tokens": 1860,
+    "cost_usd": 0.0,
+    "latency_sec": 15.8,
+    "data": {
+      "customer": "Jorge Alvarez",
+      "intent": "complaint",
+      "line_items": [
+        {
+          "sku": "MS-TLS-0108",
+          "description": "pipe cutters",
+          "quantity": 4.0,
+          "unit": null
+        }
+      ],
+      "requested_date": null,
+      "urgency": "normal",
+      "confidence": 0.95
+    }
+  },
+  "email_22": {
+    "status": "valid",
+    "attempts": 1,
+    "prompt_tokens": 1783,
+    "completion_tokens": 43,
+    "total_tokens": 1826,
+    "cost_usd": 0.0,
+    "latency_sec": 14.75,
+    "data": {
+      "customer": "Karen Ostrow",
+      "intent": "other",
+      "line_items": [],
+      "requested_date": null,
+      "urgency": "normal",
+      "confidence": 0.95
+    }
+  },
+  "email_23": {
+    "status": "valid",
+    "attempts": 1,
+    "prompt_tokens": 1795,
+    "completion_tokens": 72,
+    "total_tokens": 1867,
+    "cost_usd": 0.0,
+    "latency_sec": 15.82,
+    "data": {
+      "customer": "Paul Whitaker",
+      "intent": "other",
+      "line_items": [
+        {
+          "sku": null,
+          "description": "glass fiber oil filters, 3/8",
+          "quantity": 30.0,
+          "unit": null
+        }
+      ],
+      "requested_date": null,
+      "urgency": "normal",
+      "confidence": 0.7
+    }
+  },
+  "email_24": {
+    "status": "valid",
+    "attempts": 1,
+    "prompt_tokens": 1750,
+    "completion_tokens": 64,
+    "total_tokens": 1814,
+    "cost_usd": 0.0,
+    "latency_sec": 14.81,
+    "data": {
+      "customer": "Priya Nair",
+      "intent": "status",
+      "line_items": [
+        {
+          "sku": null,
+          "description": null,
+          "quantity": 1.0,
+          "unit": null
+        }
+      ],
+      "requested_date": null,
+      "urgency": "normal",
+      "confidence": 0.95
+    }
+  },
+  "email_25": {
+    "status": "valid",
+    "attempts": 1,
+    "prompt_tokens": 1759,
+    "completion_tokens": 75,
+    "total_tokens": 1834,
+    "cost_usd": 0.0,
+    "latency_sec": 14.78,
+    "data": {
+      "customer": "pacificcold",
+      "intent": "status",
+      "line_items": [
+        {
+          "sku": "MS-TLS-0092",
+          "description": "torque wrench",
+          "quantity": 25.0,
+          "unit": null
+        }
+      ],
+      "requested_date": null,
+      "urgency": "normal",
+      "confidence": 0.95
+    }
+  },
+  "email_26": {
+    "status": "valid",
+    "attempts": 1,
+    "prompt_tokens": 1763,
+    "completion_tokens": 72,
+    "total_tokens": 1835,
+    "cost_usd": 0.0,
+    "latency_sec": 15.85,
+    "data": {
+      "customer": "Tom Brandt",
+      "intent": "other",
+      "line_items": [
+        {
+          "sku": "MS-10431",
+          "description": null,
+          "quantity": 1.0,
+          "unit": "ea"
+        }
+      ],
+      "requested_date": null,
+      "urgency": "normal",
+      "confidence": 0.95
+    }
+  },
+  "email_27": {
+    "status": "valid",
+    "attempts": 1,
+    "prompt_tokens": 1774,
+    "completion_tokens": 122,
+    "total_tokens": 1896,
+    "cost_usd": 0.0,
+    "latency_sec": 14.91,
+    "data": {
+      "customer": "vanguardlog",
+      "intent": "status",
+      "line_items": [
+        {
+          "sku": null,
+          "description": "hard hats",
+          "quantity": 0.01,
+          "unit": null
+        },
+        {
+          "sku": null,
+          "description": "flat washers",
+          "quantity": 0.01,
+          "unit": null
+        },
+        {
+          "sku": null,
+          "description": "manifold block",
+          "quantity": 0.01,
+          "unit": null
+        }
+      ],
+      "requested_date": null,
+      "urgency": "normal",
+      "confidence": 0.95
+    }
+  },
+  "email_28": {
+    "status": "valid",
+    "attempts": 1,
+    "prompt_tokens": 1759,
+    "completion_tokens": 73,
+    "total_tokens": 1832,
+    "cost_usd": 0.0,
+    "latency_sec": 15.82,
+    "data": {
+      "customer": "ironcladco",
+      "intent": "other",
+      "line_items": [
+        {
+          "sku": null,
+          "description": "order of about $3,500",
+          "quantity": 1.0,
+          "unit": null
+        }
+      ],
+      "requested_date": null,
+      "urgency": "low",
+      "confidence": 0.95
+    }
+  },
+  "email_29": {
+    "status": "valid",
+    "attempts": 1,
+    "prompt_tokens": 1782,
+    "completion_tokens": 65,
+    "total_tokens": 1847,
+    "cost_usd": 0.0,
+    "latency_sec": 14.77,
+    "data": {
+      "customer": "Alan Reyes",
+      "intent": "status",
+      "line_items": [
+        {
+          "sku": null,
+          "description": "boots",
+          "quantity": 30.0,
+          "unit": null
+        }
+      ],
+      "requested_date": null,
+      "urgency": "normal",
+      "confidence": 0.75
+    }
+  },
+  "email_30": {
+    "status": "valid",
+    "attempts": 1,
+    "prompt_tokens": 1776,
+    "completion_tokens": 74,
+    "total_tokens": 1850,
+    "cost_usd": 0.0,
+    "latency_sec": 15.12,
+    "data": {
+      "customer": "Linda Ferris",
+      "intent": "status",
+      "line_items": [
+        {
+          "sku": null,
+          "description": null,
+          "quantity": 1.0,
+          "unit": null
+        }
+      ],
+      "requested_date": "2026-11-16",
+      "urgency": "high",
+      "confidence": 0.95
+    }
+  }
+}

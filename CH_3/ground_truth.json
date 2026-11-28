@@ -1,0 +1,125 @@
+{
+  "email_01": {
+    "customer": "Ironclad Construction",
+    "intent": "order",
+    "line_items": [
+      {"sku": "MS-PPE-0002", "description": null, "quantity": 200, "unit": null},
+      {"sku": "MS-PPE-0106", "description": null, "quantity": 40, "unit": null}
+    ],
+    "requested_date": null,
+    "urgency": "normal"
+  },
+  "email_02": {
+    "customer": "Raj Patel",
+    "intent": "order",
+    "line_items": [
+      {"sku": null, "description": "2 inch stainless ball valves", "quantity": 20, "unit": null}
+    ],
+    "requested_date": null,
+    "urgency": "normal"
+  },
+  "email_03": {
+    "customer": "Frontier Mining Supply",
+    "intent": "order",
+    "line_items": [],
+    "requested_date": null,
+    "urgency": "normal"
+  },
+  "email_04": {
+    "customer": "Heartland Ag",
+    "intent": "order",
+    "line_items": [
+      {"sku": null, "description": "solvent degreaser", "quantity": 12, "unit": null},
+      {"sku": null, "description": "drum pump", "quantity": 1, "unit": null}
+    ],
+    "requested_date": "2026-11-20",
+    "urgency": "normal"
+  },
+  "email_05": {
+    "customer": "Delta Chemical Works",
+    "intent": "order",
+    "line_items": [
+      {"sku": "MS-FAC-0136", "description": "solvent degreaser, industrial size", "quantity": 60, "unit": "units"}
+    ],
+    "requested_date": "2026-11-19",
+    "urgency": "urgent"
+  },
+  "email_06": {
+    "customer": "Keystone Foundry",
+    "intent": "other",
+    "line_items": [
+      {"sku": "MS-FST-0003", "description": "hex bolt, alloy steel, M6", "quantity": 500, "unit": null}
+    ],
+    "requested_date": null,
+    "urgency": "normal"
+  },
+  "email_07": {
+    "customer": "Marcus Lee",
+    "intent": "status",
+    "line_items": [],
+    "requested_date": null,
+    "urgency": "normal"
+  },
+  "email_08": {
+    "customer": "Summit Aerospace Parts",
+    "intent": "status",
+    "line_items": [],
+    "requested_date": null,
+    "urgency": "normal"
+  },
+  "email_09": {
+    "customer": "Jorge Alvarez",
+    "intent": "status",
+    "line_items": [],
+    "requested_date": null,
+    "urgency": "normal"
+  },
+  "email_10": {
+    "customer": "Sam Okafor",
+    "intent": "status",
+    "line_items": [
+      {"sku": null, "description": "drum pumps", "quantity": 10, "unit": null}
+    ],
+    "requested_date": null,
+    "urgency": "normal"
+  },
+  "email_11": {
+    "customer": "Heather Cole",
+    "intent": "status",
+    "line_items": [],
+    "requested_date": null,
+    "urgency": "high"
+  },
+  "email_12": {
+    "customer": "Cascadia Pulp & Paper",
+    "intent": "complaint",
+    "line_items": [],
+    "requested_date": null,
+    "urgency": "high"
+  },
+  "email_13": {
+    "customer": "Greg Dunmore",
+    "intent": "complaint",
+    "line_items": [
+      {"sku": null, "description": "1/2-inch zinc lock nuts", "quantity": 22, "unit": "pcs"}
+    ],
+    "requested_date": null,
+    "urgency": "high"
+  },
+  "email_14": {
+    "customer": "Bill Granger",
+    "intent": "complaint",
+    "line_items": [
+      {"sku": "MS-PPE-0098", "description": "respirator masks", "quantity": 6, "unit": null}
+    ],
+    "requested_date": null,
+    "urgency": "high"
+  },
+  "email_15": {
+    "customer": "Great Lakes Marine",
+    "intent": "complaint",
+    "line_items": [],
+    "requested_date": null,
+    "urgency": "high"
+  }
+}
